@@ -1,6 +1,6 @@
 # Aaron
 
-![lumpy](https://raw.githubusercontent.com/tonicbupt/aaron/master/pic/lumpy.jpg)
+![duck](https://raw.githubusercontent.com/tonicbupt/aaron/master/pic/duck.jpg)
 
 Aaron 就是一个朋友的名字啦.
 
