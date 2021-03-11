@@ -2,7 +2,7 @@
 
 ![duck](https://raw.githubusercontent.com/tonicbupt/aaron/master/pic/duck.jpg)
 
-Aaron 就是一个朋友的名字啦.
+Aaron 就是一个(boy)朋友的名字啦.
 
 为什么叫这个呢, 因为 Aaron 会帮助你这个选择困难症.
 
